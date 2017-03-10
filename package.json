@@ -1,0 +1,28 @@
+{
+  "name": "youtube_player",
+  "version": "1.0.0",
+  "description": "remotely play youtube videos in kiosk mode",
+  "main": "index.js",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "botkit": "^0.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MidnightCommercial/youtube_player.git"
+  },
+  "keywords": [
+    "remote",
+    "media"
+  ],
+  "author": "m1keall1son",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MidnightCommercial/youtube_player/issues"
+  },
+  "homepage": "https://github.com/MidnightCommercial/youtube_player#readme"
+}
